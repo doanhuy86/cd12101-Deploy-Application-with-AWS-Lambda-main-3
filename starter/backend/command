@@ -1,0 +1,6 @@
+endpoints:
+  GET - https://1duq6asxh7.execute-api.us-east-1.amazonaws.com/qa/todos
+  POST - https://1duq6asxh7.execute-api.us-east-1.amazonaws.com/qa/todos
+  PATCH - https://1duq6asxh7.execute-api.us-east-1.amazonaws.com/qa/todos/{todoId}
+  DELETE - https://1duq6asxh7.execute-api.us-east-1.amazonaws.com/qa/todos/{todoId}
+  POST - https://1duq6asxh7.execute-api.us-east-1.amazonaws.com/qa/todos/{todoId}/attachment
